@@ -1,0 +1,8 @@
+linters:
+  disable-all: true
+  enable:
+    - misspell
+linters-settings:
+  misspell:
+    locale: US
+    mode: "default"
